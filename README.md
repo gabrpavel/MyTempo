@@ -1,5 +1,10 @@
 # MyTempo
-## MyTempo is a desktop application, a music catalog. This application features the ability to create an account, add to your catalog songs, view your catalog, view catalog of all songs and albums, view album and song information, and listen to songs.
+---
+## ***MyTempo*** is a desktop application, a music catalog. This application features the ability to create an account, add to your catalog songs, view your catalog, view catalog of all songs and albums, view album and song information, and listen to songs.
+## To create this application I used `C++` language and **[Qt framework](https://www.qt.io/)**.
+
+---
+ 
 ![](sources/authorization.png)
 
 ![](sources/mytempo.png)
