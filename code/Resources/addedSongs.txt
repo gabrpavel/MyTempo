@@ -1,0 +1,40 @@
+user1|Heroes|David Bowie|14.10.1977|rock
+user2|Falling|Harry Styles|07.03.2020|pop
+user2|Heroes|David Bowie|14.10.1977|rock
+user1|Let's Dance|David Bowie|14.04.1982|rock
+user1|Changes|David Bowie|07.01.1972|rock
+user1|Life on Mars?|David Bowie|22.06.1973|rock
+user1|Starman|David Bowie|28.04.1972|rock
+user6|Bad Habbit|Steve Lacy|29.06.2022|pop
+user6|Break My Heart|Dua Lipa|27.03.2020|pop
+user6|A Car, A Torch, A Death|Twenty One Pilots|29.12.2009|alternative rock
+user6|Before You Go|Lewis Capaldi|22.11.2019|pop
+user2|A Car, A Torch, A Death|Twenty One Pilots|29.12.2009|alternative rock
+user2|Before You Go|Lewis Capaldi|22.11.2019|pop
+user5|Bones|Imagine Dragons|11.03.2022|pop
+user5|Creep|Radiohead|22.02.1993|alternative rock
+user5|Bad Habbit|Steve Lacy|29.06.2022|pop
+gabr.pavel|A Car, A Torch, A Death|Twenty One Pilots|29.12.2009|alternative rock
+gabr.pavel|Therefore I Am|Billie Eilish|12.11.2020|pop
+user5|Falling|Harry Styles|07.03.2020|pop
+user5|Golden|Harry Styles|13.12.2019|pop
+user5|Should I Stay or Should I Go|The Clash|01.10.1982|rock
+gabr.pavel|Keep Driving|Harry Styles|20.05.2022|pop
+gabr.pavel|betty|Taylor Swift|24.07.2020|pop
+gabr.pavel|Love of My Life|Harry Styles|20.05.2022|pop
+user8|Astronomy|Conan Gray|07.05.2021|pop
+gabr.pavel|Heroes|David Bowie|14.10.1977|rock
+gabr.pavel|Rebel Rebel|David Bowie|15.02.1974|rock
+gabr.pavel|everything i wanted|Billie Eilish|13.11.2019|pop
+gabr.pavel|The Chain|Fleetwood Mac|04.02.1977|rock
+gabr.pavel|Starman|David Bowie|28.04.1972|rock
+gabr.pavel|Life on Mars?|David Bowie|22.06.1973|rock
+gabr.pavel|Nico and the Niners|Twenty One Pilots|05.10.2018|alternative rock
+gabr.pavel|My Blood|Twenty One Pilots|05.10.2018|alternative rock
+gabr.pavel|Cut My Lip|Twenty One Pilots|05.10.2018|alternative rock
+1234|Jumpsuit|Twenty One Pilots|05.10.2018|alternative rock
+1234|Heroes|David Bowie|14.10.1977|rock
+1234|Fall Away|Twenty one pilots|29.03.2009|alternative rock
+1234|Astronomy|Conan Gray|07.05.2021|pop
+1234|How Soon Is Now|The Smiths|12.11.1984|alternative rock
+1234|Before You Go|Lewis Capaldi|22.11.2019|pop

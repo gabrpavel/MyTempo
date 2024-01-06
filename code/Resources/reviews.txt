@@ -1,0 +1,21 @@
+user1|Heroes|David Bowie|Great song!
+user2|Heroes|David Bowie|My favorite song.
+user2|Starman|David Bowie|masterpiece
+user5|Therefore I Am|Billie Eilish|good
+user5|Falling|Harry Styles|good
+user5|Keep Driving|Harry Styles|very good
+user2|Love of My Life|Harry Styles|good
+user1|Love of My Life|Harry Styles|very good
+gabr.pavel|Break My Heart|Dua Lipa|good
+user5|Before You Go|Lewis Capaldi|good
+gabr.pavel|As It Was|Harry Styles|good
+gabr.pavel|Bad Habbit|Steve Lacy|good
+gabr.pavel|Before You Go|Lewis Capaldi|good
+gabr.pavel|Heroes|David Bowie|the best song from David Bowie!
+user6|Heroes|David Bowie|very good song!
+user|Heroes|David Bowie|favorite song after watching "The perks of being a wallflower"
+user10|Heroes|David Bowie|it's everything...
+1234|Break My Heart|Dua Lipa|this song makes me happy
+1234|A Car, A Torch, A Death|Twenty One Pilots|good
+1234|Karma|Taylor Swift|good
+

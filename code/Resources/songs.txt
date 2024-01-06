@@ -1,0 +1,45 @@
+|Heroes|David Bowie|14.10.1977|rock
+|Starman|David Bowie|28.04.1972|rock
+|Life on Mars?|David Bowie|22.06.1973|rock
+|Let's Dance|David Bowie|14.04.1982|rock
+|Rebel Rebel|David Bowie|15.02.1974|rock
+|Changes|David Bowie|07.01.1972|rock
+|Falling|Harry Styles|07.03.2020|pop
+|As It Was|Harry Styles|01.04.2022|pop
+|Dont't Stop Me Now|Queen|26.01.1979|rock
+|The Chain|Fleetwood Mac|04.02.1977|rock
+|Should I Stay or Should I Go|The Clash|01.10.1982|rock
+|A Car, A Torch, A Death|Twenty One Pilots|29.12.2009|alternative rock
+|Psycho Killer|Talking Heads|23.09.1977|rock
+|California Dreamin'|The Mamas & The Papas|03.10.1965|folk-rock
+|People Watching|Conan Gray|15.07.2021|pop
+|Astronomy|Conan Gray|07.05.2021|pop
+|Overdrive|Conan Gray|19.02.2021|pop
+|Pink + White|Frank Ocean|20.08.2016|alternative R&B
+|Run|Joji|06.02.2020|alternative R&B
+|The Hills|The Weeknd|28.08.2015|alternative R&B
+|Redbone|Childish Gambino|02.12.2016|alternative R&B
+|Creep|Radiohead|22.02.1993|alternative rock
+|R U Mine?|Artic Monkeys|09.09.2013|alternative rock
+|Let It Happen|Tame Impala|17.07.2013|alternative rock
+|Money|The Drums|07.05.2012|alternative rock
+|Demons|Imagine Dragons|04.09.2012|alternative rock
+|Golden|Harry Styles|13.12.2019|pop
+|Heather|Conan Gray|20.03.2020|pop
+|Karma|Taylor Swift|21.10.2022|pop
+|golden hour|JVKE|03.10.2022|pop
+|Bad Habbit|Steve Lacy|29.06.2022|pop
+|Therefore I Am|Billie Eilish|12.11.2020|pop
+|Glimpse of Us|Joji|10.06.2022|pop
+|Delicate|Taylor Swift|10.11.2017|pop
+|everything i wanted|Billie Eilish|13.11.2019|pop
+|I Ain't Worried|OneRepublic|13.05.2022|pop
+|Bones|Imagine Dragons|11.03.2022|pop
+|Break My Heart|Dua Lipa|27.03.2020|pop
+|Before You Go|Lewis Capaldi|22.11.2019|pop
+|Arcade|Duncan Laurence|07.03.2019|pop
+|no tears left to cry|Ariana Grande|17.08.2018|pop
+|How Soon Is Now|The Smiths|12.11.1984|alternative rock
+|Fall Away|Twenty one pilots|29.03.2009|alternative rock
+
+ 
