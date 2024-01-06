@@ -1,5 +1,5 @@
 # MyTempo
-
+## MyTempo is a desktop application, a music catalog. This application features the ability to create an account, add to your catalog songs, view your catalog, view catalog of all songs and albums, view album and song information, and listen to songs.
 ![](sources/authorization.png)
 
 ![](sources/mytempo.png)
